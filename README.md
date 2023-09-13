@@ -4,7 +4,7 @@
 
 The Weather Web App is a simple web application that provides users with current weather information for any location. It's built using HTML, CSS, and JavaScript, and it uses the OpenWeatherMap API to fetch weather data.
 
-![Weather Web App Screenshot](screenshot.png)
+![Weather Web App Screenshot](https://github.com/SwastikDixit/Weather-Forecasting/blob/main/Output.png)
 
 ## Features
 
