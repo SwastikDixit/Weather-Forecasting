@@ -21,7 +21,7 @@ The Weather Web App is a simple web application that provides users with current
 2. Open the index.html file in your web browser.
 3. Enter a city name in the search bar and click the "Search" button to retrieve weather information.
 
-##Configuration
+## Configuration
 
 To use your own OpenWeatherMap API key, replace 'YOUR_API_KEY' with your actual API key in the script.js file:
 
